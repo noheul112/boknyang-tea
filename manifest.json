@@ -1,0 +1,17 @@
+{
+    "name": "복냥이 찻집",
+    "short_name": "복냥이 찻집",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F7F2E8",
+    "theme_color": "#7F8D72",
+    "description": "마음 쉬어가는 운세 한 잔",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "boknyang-icon.png",
+            "type": "image/png"
+        }
+    ]
+}
